@@ -8,7 +8,7 @@ https://www.figma.com/file/8z4awnS49hAOZJcXtqychi/Practica_UXUI_AGGA?type=design
 
 Pequeña pausa con Dragon Ball y empezamos maquetando una app para SwiftUI con Marvel. Lo primero de todo es como enfocar lo que queremos transmitir, seguimos teniendo las mismas pantallas de antes. SplashScreen, Login, Register, Heroes y Detalle. Lo importante era realizar algo sencillo y que quede claro los campos interactuables. Aquí os dejo el resultado.
 
-**Resultado: WIP**
+**Resultado: APTO**
 
 **LIGHT**
 
